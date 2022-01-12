@@ -2,22 +2,29 @@
 ## Future junior Frontend Developer
 
 ### Contact information:
+
 ***
+
 *Phone:* +48 722 736 029 <br>
 *E-mail:* nastamihno87@gmail.com<br>
 *Telegram:* @NastyaMihno
+
 ***
+
 ### Briefly About Myself:
 
 I am 20 years old, I just started to study the field of IT.<br>
 
 ***
+
 ### Skills and Proficiency:
 
 + *HTML5, CSS3*
-+ *Git, GitHubss*
++ *Git, GitHub*
 + *VS Code*
+
 ***
+
 ### Code example:
 
 ```
@@ -39,8 +46,12 @@ I am 20 years old, I just started to study the field of IT.<br>
 -----
 ### Courses:
 HTML and CSS Tutorials on the https://ru.code-basics.com/
+
 ***
+
 ### Languages:
 + Russian - Native
 + English - master Google
 + Polish - Basic
+
+***
