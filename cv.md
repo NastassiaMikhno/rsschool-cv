@@ -1,4 +1,4 @@
-# **Nastassia Mikhno**
+# **Nastassia Mikhno** 
 ## Future junior Frontend Developer
 
 ### Contact information:
